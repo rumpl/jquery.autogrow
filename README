@@ -1,6 +1,6 @@
 This is a simple jquery plugin that mimics the Facebook textarea autogrow 
 frature.
 
-The difference with others in the wild is that it's fast, and bu fast I mean, if 
+The difference with others in the wild is that it's fast, and by fast I mean, if 
 you push <Enter>, the textarea will immediately grow (on keydown), not onkeyup.
 It's a small difference but an important one in my opinion.  
