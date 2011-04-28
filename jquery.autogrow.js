@@ -21,7 +21,7 @@
                                 .replace(/&/g, '&amp;')
                                 .replace(/\n/g, '<br/>&nbsp;');
     
-                        if (val === '' || $.trim(val) === '') {
+                        if ($.trim(val) === '') {
                             val = 'a';
                         }
     
