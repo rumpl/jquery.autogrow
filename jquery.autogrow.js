@@ -30,7 +30,7 @@
                     }, 0);
                 };
 
-            $(this).change(update).keyup(update).keydown(update).focus(update);
+            $this.change(update).keyup(update).keydown(update).focus(update);
             update.apply(this);
         });
 
