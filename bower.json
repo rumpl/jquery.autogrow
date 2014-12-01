@@ -1,0 +1,27 @@
+{
+    "name": "jquery.autogrow",
+    "main": "jquery.autogrow.js",
+    "version": "0.1.0",
+    "homepage": "https://github.com/rumpl/jquery.autogrow",
+    "authors": [
+        "Djordje Lukic <lukic.djordje@gmail.com>"
+    ],
+    "description": "Autogrow textareas",
+    "keywords": [
+        "textarea"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest"
+    },
+    "devDependencies": {
+        "should": "~4.3.0"
+    }
+}

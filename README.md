@@ -1,4 +1,4 @@
-# Jquery.autogrow
+# JQuery.autogrow
 
 This is a simple jquery plugin that mimics the Facebook textarea autogrow 
 feature.

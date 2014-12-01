@@ -1,0 +1,27 @@
+{
+    "name": "jquery.autogrow",
+    "version": "0.1.0",
+    "description": "Autogrow textareas",
+    "main": "jquery.autogrow.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rumpl/jquery.autogrow.git"
+    },
+    "author": "Djordje Lukic",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rumpl/jquery.autogrow/issues"
+    },
+    "homepage": "https://github.com/rumpl/jquery.autogrow",
+    "devDependencies": {
+        "gulp": "^3.8.10",
+        "gulp-eslint": "^0.2.0",
+        "gulp-mocha-phantomjs": "^0.5.1",
+        "gulp-rename": "^1.2.0",
+        "gulp-uglify": "^1.0.1",
+        "should": "^4.3.0"
+    }
+}
